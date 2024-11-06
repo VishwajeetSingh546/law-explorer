@@ -9,6 +9,9 @@ const Header = () => {
       <div className="flex-none">
         <ul className="menu menu-horizontal px-1">
           <li>
+            <Link to="/auth">Login</Link>
+          </li>
+          <li>
             <Link to="/module">Modules</Link>
           </li>
         </ul>

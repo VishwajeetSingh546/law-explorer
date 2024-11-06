@@ -24,7 +24,7 @@ const ModulePage = () => {
         "Right to Property",
         "Right to Equality",
       ],
-      image: "https://picsum.photos/200",
+      // image: "https://picsum.photos/200",
     },
     {
       type: "quiz",
@@ -35,7 +35,7 @@ const ModulePage = () => {
         "Corporations",
         "All of the above",
       ],
-      image: "https://picsum.photos/200",
+      // image: "https://picsum.photos/200",
     },
     {
       type: "lesson",
@@ -56,7 +56,7 @@ const ModulePage = () => {
         "Right to own property",
         "Only health care",
       ],
-      image: "https://picsum.photos/200",
+      // image: "https://picsum.photos/200",
     },
     {
       type: "quiz",
@@ -68,7 +68,7 @@ const ModulePage = () => {
         "Right to own property",
         "Right to health care",
       ],
-      image: "https://picsum.photos/200",
+      // image: "https://picsum.photos/200",
     },
     {
       type: "lesson",
@@ -90,7 +90,7 @@ const ModulePage = () => {
         "Freedom of religion",
         "Freedom to own property",
       ],
-      image: "https://picsum.photos/200",
+      // image: "https://picsum.photos/200",
     },
     {
       type: "quiz",
@@ -101,7 +101,7 @@ const ModulePage = () => {
         "Right to free speech",
         "Right to education",
       ],
-      image: "https://picsum.photos/200",
+      // image: "https://picsum.photos/200",
     },
     {
       type: "lesson",
@@ -123,7 +123,7 @@ const ModulePage = () => {
         "Kesavananda Bharati v. State of Kerala",
         "None of the above",
       ],
-      image: "https://picsum.photos/200",
+      // image: "https://picsum.photos/200",
     },
     {
       type: "quiz",
@@ -135,7 +135,7 @@ const ModulePage = () => {
         "State of West Bengal v. Anwar Ali Sarkar",
         "None of the above",
       ],
-      image: "https://picsum.photos/200",
+      // image: "https://picsum.photos/200",
     },
 
     // {
